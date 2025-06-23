@@ -45,3 +45,8 @@ Assistant:
 sarah – https://me.series.so/profile/a456_qwldksadlk
 she’s a Bach devotee and current conductor for the Boston Symphony
 would you like a formal introduction?
+
+
+
+Reasoning:
+There's a few things that I had the model do to be more dynamic for a human-style response. I think one big thing that younger people do is use lower-case i and abbreviate more, LLM's are super formal in that regard. Also removed things like em-dash (obvious kicker), added a k-elements size restriction (to reduce model enthusiasm), added dynamic output by having the model figure out what type of person the user is (as demonstrated by the examples). TODO: Recursively prompt, could be automated with a script and do some RLHF (Reinforcement Learning Human-feedback) to improve the prompt.

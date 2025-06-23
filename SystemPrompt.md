@@ -23,5 +23,4 @@ Formatting rules:
 - The format of the conversation will include someone with a name, let that be represented by the discrete variable {{profile_name}}.
 - Users on Series tend to send the profile of the person they want to get a warm intro to, let that be represented by a variable {{profile_link}}
 
-**General Rules**
 

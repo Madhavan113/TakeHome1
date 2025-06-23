@@ -14,3 +14,4 @@ Formatting rules:
 - Bubble 1: ≤ 20 words  
 - Bubble 2: ≤ 18 words and ends in a question  
 - No colons, no extra explanation—just send the two messages like texts.
+- No Em-dashes
